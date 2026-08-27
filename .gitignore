@@ -5,3 +5,8 @@ __pycache__/
 venv/
 outputs/*
 !outputs/.gitkeep
+# graded deliverables must be submitted
+!outputs/report.md
+!outputs/savings.png
+!outputs/focus_export.csv
+!outputs/missions_output.txt
